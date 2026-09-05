@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./ChatGPT%20Image%20Jun%2020%2C%202026%2C%2005_21_15%20PM.png" alt="LifeMagazine Logo" width="300">
+</p>
+
 # LifeMagazine
 
 ## معرفی پروژه
