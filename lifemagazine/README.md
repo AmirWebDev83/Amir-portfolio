@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ChatGPT%20Image%20Jun%2020,%202026,%2005_21_15%20PM.png" alt="LifeMagazine Logo" width="200">
+  <img src="./ChatGPT%20Image%20Jun%2020,%202026,%2005_21_15%20PM.png" alt="LifeMagazine Logo" width="300">
 </p>
 
 # LifeMagazine
